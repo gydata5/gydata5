@@ -18,7 +18,8 @@ About Me
 
 What You’ll Find Here
 
-This GitHub is where I document my journey in Data Science. Expect:
+This GitHub is where I document my journey in Data Science. 
+Expect:
 
 Projects that reflect my learning and creativity.
 

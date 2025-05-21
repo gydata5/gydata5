@@ -1,8 +1,8 @@
-Welcome to My GitHub Profile! 👋
+## Welcome to My GitHub Profile! 👋
 Hi there! I’m Georgina (@gydata5) — a passionate explorer of the digital world with a unique background in mortgage operations, intelligence analysis, and criminal justice. I'm dedicated to continuous growth, with a strong focus on data analytics and real-world problem-solving.
 
-🔎 About Me
-🎓 Education:
+## 🔎 About Me
+🎓 Education: 
 
 Master of Science in Criminal Justice – American Public University System
 

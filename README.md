@@ -6,7 +6,7 @@ Hi there! I’m Georgina (@gydata5) — a passionate explorer of the digital wor
 
 Master of Science in Criminal Justice – American Public University System
 
-Data Analytics Certificate – Google/Coursera (or update if different)
+Data Analytics Certificate – Michigan State University
 
 👀 Interests: Sports, military service, working out, and video games
 🌱 Currently Learning: Advanced techniques in data analytics — and loving every challenging moment!

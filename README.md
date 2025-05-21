@@ -1,34 +1,29 @@
 Welcome to My GitHub Profile! 👋
+Hi there! I’m Georgina (@gydata5) — a passionate explorer of the digital world with a unique background in mortgage operations, intelligence analysis, and criminal justice. I'm dedicated to continuous growth, with a strong focus on data analytics and real-world problem-solving.
 
-Hi there! I’m Georgina (@gydata5) — a passionate explorer of the digital world, dedicated to diving into all things Data Science.
+🔎 About Me
+🎓 Education:
 
-About Me
+Master of Science in Criminal Justice – American Public University System
 
-👀 Interests: Sports, the military, working out, and video games.
+Data Analytics Certificate – Google/Coursera (or update if different)
 
-🌱 Currently Learning: Data Science, and loving every challenging moment of it!
-
-💞️ Collaborations: Not looking to collaborate at the moment, but feel free to connect and share ideas.
-
-📫 Reach Me: gmyoung0513@gmail.com
-
+👀 Interests: Sports, military service, working out, and video games
+🌱 Currently Learning: Advanced techniques in data analytics — and loving every challenging moment!
 😄 Pronouns: She/Her
-
 ⚡ Fun Fact: From my old apartment in Texas, I used to have a direct view of Mexico!
 
-What You’ll Find Here
+📂 What You’ll Find Here
+This GitHub is where I document and share my journey in Data Science and Analytics.
+Expect to find:
 
-This GitHub is where I document my journey in Data Science. 
-Expect:
+🔬 Projects that reflect both my learning and creativity
 
-Projects that reflect my learning and creativity.
+📊 Python scripts, Jupyter notebooks, and Tableau dashboards
 
-Scripts and Notebooks packed with insights and problem-solving techniques.
+💡 Real-world problem-solving with a passion for tech and growth
 
-A Passion for growth and exploration in tech.
-
-Let's Connect!
-
-While I’m not currently seeking collaborations, I’m always open to friendly conversations. Drop me an email or simply follow my profile to stay updated.
-
-Thank you for stopping by — I’m excited to share this journey with you! 🚀
+💬 Let's Connect!
+💌 Reach Me: gmyoung0513@gmail.com
+🤝 Collaborations: Not currently open to projects, but always happy to chat or exchange ideas
+🔔 Follow to stay updated on my latest projects and learning milestones
